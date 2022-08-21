@@ -9,8 +9,30 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>日復一日也會有新的快樂</description>
-    <pubDate>Wed, 10 Aug 2022 14:11:43 GMT</pubDate>
+    <pubDate>Sun, 21 Aug 2022 02:31:16 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>欢迎来到我的博客 Let&#39;s do something cool!</title>
+      <link>http://example.com/2022/08/21/say-hi-to-everyone/</link>
+      <guid>http://example.com/2022/08/21/say-hi-to-everyone/</guid>
+      <pubDate>Sun, 21 Aug 2022 02:22:52 GMT</pubDate>
+      
+        
+        
+      <description>&lt;p&gt;一些碎碎念…&lt;br&gt;本博客用来记录自己在学习、工作上遇到的问题及解决方法，新技术的学习笔记等等，考虑到自己在解决问题的时候总是要查一篇接着一篇的技术博客才能解决问题，所以希望自己写的每篇博客都能尽可能的记录下自己解决问题的所有流程，方便复盘也希望能对其他人有所帮助。毕竟，详</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<p>一些碎碎念…<br>本博客用来记录自己在学习、工作上遇到的问题及解决方法，新技术的学习笔记等等，考虑到自己在解决问题的时候总是要查一篇接着一篇的技术博客才能解决问题，所以希望自己写的每篇博客都能尽可能的记录下自己解决问题的所有流程，方便复盘也希望能对其他人有所帮助。毕竟，详尽的博客文章谁会不爱呢hhh</p><p>话不多说 咱们就开干吧！<br>关注AQiao的博客 和我一起做些很酷的事情吧！</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2022/08/21/say-hi-to-everyone/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Hello World</title>
